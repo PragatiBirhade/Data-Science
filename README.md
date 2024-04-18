@@ -1,4 +1,1 @@
-# Python basic to Advanced for Data Science
-This project is all about data science
-<br>
-Author - pragati birhade
+This repository is a curated collection of programs, tutorials, and resources covering various aspects of data science, including machine learning algorithms, Python programming from basic to advanced, deep learning, MLOps, and much more. 
