@@ -1,1 +1,1 @@
-This repository is a curated collection of programs, tutorials, and resources covering various aspects of data science, including machine learning algorithms, Python programming from basic to advanced, deep learning, MLOps, and much more. 
+
